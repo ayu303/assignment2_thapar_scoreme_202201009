@@ -14,3 +14,4 @@ You can install them using pip:
 
 ```sh
 pip install pymupdf pandas openpyxl
+Video Link - https://drive.google.com/file/d/1LBSnrNTpGgQssMVAw63aOF53oN56Il1j/view?usp=drive_link
